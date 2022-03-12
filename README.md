@@ -13,4 +13,4 @@ Considering the [schedule page](https://www.slgr.gr/el/schedule/), there are two
 
 
 * Super league games (and not play off's / play out's)
-![My Image](C:\Users\KOSTAS\Desktop\projects\WEB_SCRAPING_PROJECT\Web_Scraping\my_project\photos_for_README\seasons.png)
+
