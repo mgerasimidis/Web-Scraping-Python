@@ -45,4 +45,13 @@ Considering the [schedule page](https://www.slgr.gr/el/schedule/), there are two
 ### For headers
 ![equal_class_2(headers)](https://user-images.githubusercontent.com/95297354/158028973-2d1143fa-6d7e-4b01-9e5f-cbc71b0db0af.png)
 
+### The final step before scraping the information, was to create an empty dataframe with the appropriate columns
+![empty_df](https://user-images.githubusercontent.com/95297354/158029081-7f717af1-17a9-4499-ad1a-d3c5fd6fdba2.png)
+
+### The code 
+![coding](https://user-images.githubusercontent.com/95297354/158029108-ecbb2a0f-499f-4a16-ac56-8f9af2d5caff.png)
+
+### The dataframe obtained
+![export_for_analysis](https://user-images.githubusercontent.com/95297354/158029130-14369dac-b871-4573-ae1a-156c355a29d7.png)
+
 
