@@ -10,8 +10,7 @@ Getting data from the original website of [greek super league](https://www.slgr.
 
 Considering the [schedule page](https://www.slgr.gr/el/schedule/), there are two things to consider at first:
 * Seasons 
-[Seasons](mgerasimidis.github.com/Web-Scraping-Python/photos_for_README/seasons.png)
+![seasons](https://user-images.githubusercontent.com/95297354/158027525-17828e79-4f2e-4c06-b541-dc38a5d40be3.png)
 
 * Super league games (and not play off's / play out's)
 
-https://github.com/mgerasimidis/Web-Scraping-Python/tree/main/photos_for_README
