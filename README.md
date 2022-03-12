@@ -11,7 +11,7 @@ Getting data from the original website of [greek super league](https://www.slgr.
 Considering the [schedule page](https://www.slgr.gr/el/schedule/), there are two things to consider at first:
 
 #### Seasons:
-![seasons_1](https://user-images.githubusercontent.com/95297354/158027668-b06b760c-91b0-417a-af3b-e8ce699ddfb2.png)
+![seasons_1](https://user-images.githubusercontent.com/95297354/158027668-b06b760c-91b0-417a-af3b-e8ce699ddfb2.png)  ![seasons_2](https://user-images.githubusercontent.com/95297354/158027727-900d3dc2-9028-424a-bba3-14f8c6c282f6.png)
 
 
 #### Super league games (and not play off's / play out's):
