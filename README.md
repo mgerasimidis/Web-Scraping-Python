@@ -17,3 +17,6 @@ Considering the [schedule page](https://www.slgr.gr/el/schedule/), there are two
 #### Super league games (and not play off's / play out's):
 ![league](https://user-images.githubusercontent.com/95297354/158027596-1d8a2796-f758-4180-9afa-1c11d75302b9.png)
 
+
+#### Here we get a list of links, about each season and only the Super league games:
+![sl_seasons](https://user-images.githubusercontent.com/95297354/158027789-0109f633-4c33-4508-8d16-dd18019799b0.png)
