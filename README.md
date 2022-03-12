@@ -52,6 +52,7 @@ Considering the [schedule page](https://www.slgr.gr/el/schedule/), there are two
 ![coding](https://user-images.githubusercontent.com/95297354/158029108-ecbb2a0f-499f-4a16-ac56-8f9af2d5caff.png)
 
 ### The dataframe obtained
-![export_for_analysis](https://user-images.githubusercontent.com/95297354/158029130-14369dac-b871-4573-ae1a-156c355a29d7.png)
+![DATAFRAME](https://user-images.githubusercontent.com/95297354/158029214-be048d01-43dd-4dd1-b3d7-e0a99efe1295.png)
+
 
 
