@@ -39,7 +39,10 @@ Considering the [schedule page](https://www.slgr.gr/el/schedule/), there are two
 ### Inside each "trow" there was info about the category, home_team statistic and away_team statistic
 ![inside_trow](https://user-images.githubusercontent.com/95297354/158028919-3dca99d2-36fc-400f-961c-11f721126145.png)
 
-### Then I noticed that for each statistic, the "pattern" of the html code was the same (for example for goals and headers)
-![equal_class_1](https://user-images.githubusercontent.com/95297354/158028961-edd2ebe9-5cba-4dc5-968e-38e0913ef975.png)  ![equal_class_2(headers)](https://user-images.githubusercontent.com/95297354/158028973-2d1143fa-6d7e-4b01-9e5f-cbc71b0db0af.png)
+### Then I noticed that for each statistic, the "pattern" of the html code was the same 
+### For goals
+![equal_class_1](https://user-images.githubusercontent.com/95297354/158028961-edd2ebe9-5cba-4dc5-968e-38e0913ef975.png) 
+### For headers
+![equal_class_2(headers)](https://user-images.githubusercontent.com/95297354/158028973-2d1143fa-6d7e-4b01-9e5f-cbc71b0db0af.png)
 
 
