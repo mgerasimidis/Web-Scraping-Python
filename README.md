@@ -30,8 +30,9 @@ Considering the [schedule page](https://www.slgr.gr/el/schedule/), there are two
 ### In each page, I used the following sources for information (specific fixture and statistics). 
 ![fixture](https://user-images.githubusercontent.com/95297354/158028368-ba9e1d65-c8e1-41ba-b506-c6f472857a38.png)  ![statistics](https://user-images.githubusercontent.com/95297354/158028383-1b355bf7-7dc8-499a-9152-63f2782716cb.png)
 
-### The information about the statistics table was here
-![inspect statistics table](https://user-images.githubusercontent.com/95297354/158028674-86d9bd17-159a-4c03-9123-ed549762cef7.png)
+### From the statistics table, I got the information about the teams and the game stats
+![team_names](https://user-images.githubusercontent.com/95297354/158028789-ea4ef2bb-b748-47d1-ae30-a59475fdc004.png) ![statistics_part](https://user-images.githubusercontent.com/95297354/158028796-63972fc6-5f58-4439-b67f-07c1100d3685.png)
+
 
 
 
