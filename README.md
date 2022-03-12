@@ -33,6 +33,13 @@ Considering the [schedule page](https://www.slgr.gr/el/schedule/), there are two
 ### From the statistics table, I got the information about the teams and the game stats
 ![team_names](https://user-images.githubusercontent.com/95297354/158028789-ea4ef2bb-b748-47d1-ae30-a59475fdc004.png) ![statistics_part](https://user-images.githubusercontent.com/95297354/158028796-63972fc6-5f58-4439-b67f-07c1100d3685.png)
 
+### Considering the game stats, each trow was related to a specific category (goals, assists, etc.)
+![each_trow_is_category](https://user-images.githubusercontent.com/95297354/158028869-4f5dbdee-d1f2-4d95-a439-ca20468f617b.png)
 
+### Inside each "trow" there was info about the category, home_team statistic and away_team statistic
+![inside_trow](https://user-images.githubusercontent.com/95297354/158028919-3dca99d2-36fc-400f-961c-11f721126145.png)
+
+### Then I noticed that for each statistic, the "pattern" of the html code was the same (for example for goals and headers)
+![equal_class_1](https://user-images.githubusercontent.com/95297354/158028961-edd2ebe9-5cba-4dc5-968e-38e0913ef975.png)  ![equal_class_2(headers)](https://user-images.githubusercontent.com/95297354/158028973-2d1143fa-6d7e-4b01-9e5f-cbc71b0db0af.png)
 
 
